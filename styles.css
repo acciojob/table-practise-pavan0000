@@ -2,6 +2,6 @@
 #table1{
 	background:yellow;
 }
-.A{
-	 border: 2px solid black;
+table, th, td , tr{
+  border: 1px solid black;
 }
